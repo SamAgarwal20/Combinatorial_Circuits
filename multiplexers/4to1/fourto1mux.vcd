@@ -1,0 +1,63 @@
+$date
+	Fri Jul 23 19:09:35 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module fourto1mux_tb $end
+$var wire 1 ! Y $end
+$var reg 4 " A [0:3] $end
+$var reg 1 # E $end
+$var reg 1 $ S0 $end
+$var reg 1 % S1 $end
+$scope module uut $end
+$var wire 4 & A [0:3] $end
+$var wire 1 # E $end
+$var wire 1 $ S0 $end
+$var wire 1 ' S0_not $end
+$var wire 1 % S1 $end
+$var wire 1 ( S1_not $end
+$var wire 1 ) X1 $end
+$var wire 1 * X2 $end
+$var wire 1 + X3 $end
+$var wire 1 , X4 $end
+$var wire 1 ! Y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0,
+0+
+0*
+0)
+1(
+1'
+b1 &
+0%
+0$
+1#
+b1 "
+0!
+$end
+#20
+0'
+1$
+#40
+0(
+1'
+1%
+0$
+#60
+1!
+0'
+1,
+1$
+#80
+0!
+0,
+0#
+#100
