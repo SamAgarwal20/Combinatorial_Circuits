@@ -1,0 +1,72 @@
+$date
+	Mon Jul 26 20:01:46 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module decoder_tb $end
+$var reg 16 ! a_t [15:0] $end
+$upscope $end
+$scope module decoder_tb $end
+$var reg 4 " sel_t [3:0] $end
+$upscope $end
+$scope module decoder_tb $end
+$var reg 1 # enable_t $end
+$upscope $end
+$scope module decoder_tb $end
+$var wire 1 $ y_t $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+0#
+b0 "
+b1011011100110111 !
+$end
+#10
+1$
+1#
+#20
+b1 "
+#30
+1$
+b10 "
+#40
+0$
+b11 "
+#50
+1$
+b100 "
+#60
+b101 "
+#70
+0$
+b110 "
+#80
+b111 "
+#90
+1$
+b1000 "
+#100
+b1001 "
+#110
+1$
+b1010 "
+#120
+0$
+b1011 "
+#130
+1$
+b1100 "
+#140
+b1101 "
+#150
+0$
+b1110 "
+#160
+1$
+b1111 "
