@@ -1,0 +1,78 @@
+$date
+	Thu Jul 29 21:55:33 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module fourbitadder_tb $end
+$var reg 4 ! addent_t [3:0] $end
+$upscope $end
+$scope module fourbitadder_tb $end
+$var reg 4 " augend_t [3:0] $end
+$upscope $end
+$scope module fourbitadder_tb $end
+$var reg 1 # cin_t $end
+$upscope $end
+$scope module fourbitadder_tb $end
+$var wire 4 $ s_t [3:0] $end
+$upscope $end
+$scope module fourbitadder_tb $end
+$var wire 1 % cout_t $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1%
+b0 $
+1#
+b0 "
+b1111 !
+$end
+#10
+b1 $
+b1 "
+#20
+b10 $
+b10 "
+#30
+b11 $
+b11 "
+#40
+b100 $
+b100 "
+#50
+b101 $
+b101 "
+#60
+b110 $
+b110 "
+#70
+b111 $
+b111 "
+#80
+b1000 $
+b1000 "
+#90
+b1001 $
+b1001 "
+#100
+b1010 $
+b1010 "
+#110
+b1011 $
+b1011 "
+#120
+b1100 $
+b1100 "
+#130
+b1101 $
+b1101 "
+#140
+b1110 $
+b1110 "
+#150
+b1111 $
+b1111 "
