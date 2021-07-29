@@ -1,0 +1,36 @@
+$date
+	Thu Jul 29 22:33:22 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module fourto1mux_tb $end
+$var reg 4 ! A_t [3:0] $end
+$upscope $end
+$scope module fourto1mux_tb $end
+$var reg 2 " S_t [1:0] $end
+$upscope $end
+$scope module fourto1mux_tb $end
+$var wire 1 # Y_t $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1#
+b0 "
+b1001 !
+$end
+#20
+0#
+b1 "
+#40
+b10 "
+#60
+1#
+b11 "
+#80
+0#
+#100
