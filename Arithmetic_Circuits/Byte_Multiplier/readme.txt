@@ -1,1 +1,1 @@
-8*8 bits multiplier, completely combinatorial
+8*8 bits multiplier, purely combinatorial
